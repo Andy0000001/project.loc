@@ -1,0 +1,37 @@
+.main-burg{
+    width: 600px;
+    height: 500px;
+    margin-top: 30px;
+    float: left;
+}
+
+.right-menu{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu{
+    margin-top: 60px;
+    text-decoration: none;
+    color: white;
+}
+
+.main-button{
+    margin-top: 60px;
+    background-color: black;
+    color: white;
+    border: 2px #ADFF00 solid;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+
+.about-us{
+    margin-top: 60px;
+    text-decoration: none;
+    color: white;
+}
